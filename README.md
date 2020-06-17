@@ -4,7 +4,7 @@
 
 [Notebooks](https://jupyter.org/) that can be run on [Binder](https://mybinder.org/).
 
-# Getting Started
+# How to get started
 
 Local development goes like this.
 
