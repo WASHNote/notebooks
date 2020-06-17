@@ -9,6 +9,7 @@
 Local development goes like this.
 
 ```bash
+$ pip install jupyterlab
 $ pip install -r requirements.txt
 $ jupyter lab
 ```
