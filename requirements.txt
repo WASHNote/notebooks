@@ -1,7 +1,3 @@
 datapackage >= 1.14.1, < 2
-jsontableschema-pandas >= 0.5.0, < 1
 pandas >= 1.0.4, < 2
-
-# Note(decentral1se): raise an issue on making a new release
-# ModuleNotFoundError: No module named 'rfc3986.validators'
--e git+https://github.com/frictionlessdata/tableschema-py#egg=tableschema
+tableschema-pandas >= 1.1.0, < 2
